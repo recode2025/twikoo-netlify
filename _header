@@ -1,3 +1,0 @@
-# 针对所有路径和所有方法设置 CORS
-/*
-  Access-Control-Allow-Origin: *
